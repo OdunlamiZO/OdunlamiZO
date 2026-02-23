@@ -20,7 +20,7 @@ At **Oval Labs**, I worked on partner payment integrations, SDKs, backend migrat
 
 - 🔭 Currently building cross-border payment infrastructure at **Oval Labs Inc**.
 - 🛠️ Co-led a successful migration of a production system from **Node.js/Express to NestJS (TypeScript)**, improving maintainability and scalability.
-- 📦 Author of **[node-river](https://github.com/OdunlamiZO/node-river)** — a TypeScript library for the River job queue.
+- 📦 Author of **[@odunlamizo/node-river](https://github.com/OdunlamiZO/node-river)** — a TypeScript library for the River job queue.
 - 🌍 Based in **Lagos, Nigeria**, building fintech solutions for Nigeria and beyond.
 
 ---
