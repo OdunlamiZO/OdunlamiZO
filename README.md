@@ -69,7 +69,7 @@ At **Oval Labs**, I worked on partner payment integrations, SDKs, backend migrat
 ### 📦 [node-river](https://github.com/OdunlamiZO/node-river)
 > TypeScript · Node.js · PostgreSQL
 
-A TypeScript/Node.js library for seamless integration with the **River job queue system**. Features a modular driver architecture, transactional and unique job insertion, and fully type-safe APIs for job management. Built for production use with full integration and unit test coverage.
+A TypeScript/Node.js library for seamless integration with the **River job queue system**. It features a modular driver architecture, transactional and unique job insertion, fully type-safe APIs for job management, and robust support for job polling and processing. Designed for production use with comprehensive integration and unit test coverage.
 
 ---
 
