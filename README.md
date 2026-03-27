@@ -16,9 +16,9 @@
 
 I'm a software engineer with hands-on experience building and maintaining **reliable backend systems** in fast-paced product environments. I care deeply about writing clean, maintainable code and delivering practical, high-quality solutions.
 
-At **Oval Labs**, I worked on partner payment integrations, SDKs, backend migrations (Node.js/Express to NestJS, RabbitMQ to RiverQueue), and real-time config systems—helping make our systems more reliable and productive. I enjoy building systems that balance good architecture, developer experience, and real-world reliability.
+At **Iterative Financial**, I worked on partner payment integrations, SDKs, backend migrations (Node.js/Express to NestJS, RabbitMQ to River), and real-time config systems—helping make our systems more reliable and productive. I enjoy building systems that balance good architecture, developer experience, and real-world reliability.
 
-- 🔭 Currently building cross-border payment infrastructure at **Oval Labs Inc**.
+- 🔭 Currently building cross-border payment infrastructure at **Iterative Financial, Inc**.
 - 🛠️ Co-led a successful migration of a production system from **Node.js/Express to NestJS (TypeScript)**, improving maintainability and scalability.
 - 📦 Author of **[@odunlamizo/node-river](https://github.com/OdunlamiZO/node-river)** — a TypeScript library for the River job queue.
 - 🌍 Based in **Lagos, Nigeria**, building fintech solutions for Nigeria and beyond.
