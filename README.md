@@ -38,7 +38,9 @@ At **Iterative Financial**, I worked on partner payment integrations, SDKs, back
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-black?style=flat-square)
 ![Microservices](https://img.shields.io/badge/Microservices-black?style=flat-square)
 ![Event--Driven](https://img.shields.io/badge/Event--Driven_Systems-black?style=flat-square)
@@ -52,6 +54,7 @@ At **Iterative Financial**, I worked on partner payment integrations, SDKs, back
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white)
 
 
 **DevOps & Tools**
@@ -61,6 +64,8 @@ At **Iterative Financial**, I worked on partner payment integrations, SDKs, back
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-black?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![OAuth2](https://img.shields.io/badge/OAuth2-black?style=flat-square)
 
 ---
@@ -73,6 +78,11 @@ At **Iterative Financial**, I worked on partner payment integrations, SDKs, back
 A TypeScript/Node.js library for seamless integration with the **River job queue system**. It features a modular driver architecture, transactional and unique job insertion, fully type-safe APIs for job management, and robust support for job polling and processing. Designed for production use with comprehensive integration and unit test coverage.
 
 ---
+
+### 🧵 [Mima's Threadlore](https://mimasthreadlore.ng)
+> Java · Spring Boot · Spring Security · Thymeleaf · MySQL · Flyway · Docker · GitHub Actions
+
+A full-stack made-to-order fashion store built for a Nigerian fashion brand. Features a product catalogue with custom measurement collection, payment processing integration, third-party logistics integration for order dispatch, order lifecycle management with transactional email notifications, and a separate admin dashboard for inventory and order management. Deployed on a Linux VPS with CI/CD via GitHub Actions.
 
 <!-- Add more projects below as you build them -->
 <!-- ### 🔗 [Project Name](link)
