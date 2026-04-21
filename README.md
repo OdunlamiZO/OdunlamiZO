@@ -2,10 +2,11 @@
 
 # Hey, I'm Zacchaeus 👋
 
-**Backend engineer. I make systems work.**
+**Software engineer. I make systems work.**
 
 [![Email](https://img.shields.io/badge/Email-zaccheusodunlami@gmail.com-black?style=flat-square&logo=gmail)](mailto:zaccheusodunlami@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-black?style=flat-square&logo=linkedin)](https://linkedin.com/in/OdunlamiZO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-black?style=flat-square&logo=linkedin)](https://linkedin.com/in/zacchaeusodunlami)
+[![Resume](https://img.shields.io/badge/Resume-View-black?style=flat-square&logo=googledocs)](https://docs.google.com/document/d/1_1AVKJvC9_TuhHae5aQ6Tfbp-UC5WtWtnuPhKIjcqbs/edit?usp=sharing)
 [![Location](https://img.shields.io/badge/Lagos%2C_Nigeria-🇳🇬-black?style=flat-square)](#)
 
 </div>
@@ -14,14 +15,15 @@
 
 ## About Me
 
-I'm a software engineer with hands-on experience building and maintaining **reliable backend systems** in fast-paced product environments. I care deeply about writing clean, maintainable code and delivering practical, high-quality solutions.
+I'm a software engineer with hands-on experience building and shipping **full-stack products** in fast-paced environments—from robust backend systems to the interfaces people actually use. I care deeply about writing clean, maintainable code and delivering practical, high-quality solutions.
 
-At **Iterative Financial**, I worked on partner payment integrations, SDKs, backend migrations (Node.js/Express to NestJS, RabbitMQ to River), and real-time config systems—helping make our systems more reliable and productive. I enjoy building systems that balance good architecture, developer experience, and real-world reliability.
+At **Iterative Financial**, I worked on payment partner integrations, SDKs, backend migrations (Node.js/Express to NestJS, RabbitMQ to River), and real-time config systems—helping make our systems more reliable and productive. I enjoy building systems that balance good architecture, developer experience, and real-world reliability.
 
 - 🔭 Currently building cross-border payment infrastructure at **Iterative Financial, Inc**.
 - 🛠️ Co-led a successful migration of a production system from **Node.js/Express to NestJS (TypeScript)**, improving maintainability and scalability.
 - 📦 Author of **[@odunlamizo/node-river](https://github.com/OdunlamiZO/node-river)** — a TypeScript library for the River job queue.
-- 🌍 Based in **Lagos, Nigeria**, building fintech solutions for Nigeria and beyond.
+- 🧵 Built and shipped **[Mima's Threadlore](https://mimasthreadlore.ng)** — a full-stack made-to-order fashion store.
+- 🌍 Based in **Lagos, Nigeria**, building solutions for Nigeria and beyond.
 
 ---
 
@@ -72,7 +74,7 @@ At **Iterative Financial**, I worked on partner payment integrations, SDKs, back
 
 ## Featured Projects
 
-### 📦 [node-river](https://github.com/OdunlamiZO/node-river)
+### 📦 [node-river](https://www.npmjs.com/package/@odunlamizo/node-river)
 > TypeScript · Node.js · PostgreSQL
 
 A TypeScript/Node.js library for seamless integration with the **River job queue system**. It features a modular driver architecture, transactional and unique job insertion, fully type-safe APIs for job management, and robust support for job polling and processing. Designed for production use with comprehensive integration and unit test coverage.
@@ -95,7 +97,7 @@ Description of the project. -->
 
 ## Let's Connect
 
-I'm always open to interesting backend engineering conversations, open-source collaboration, or new opportunities.
+I'm always open to interesting engineering conversations, open-source collaboration, or new opportunities.
 
 - 📬 **Email:** [zaccheusodunlami@gmail.com](mailto:zaccheusodunlami@gmail.com)
 - 📞 **Phone:** +234 903 667 8078
